@@ -1,0 +1,2 @@
+# Pymail
+Sending python mails 🤑
